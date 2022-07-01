@@ -2,84 +2,98 @@
     {
         "name": "Thorin Oakenshield",
         "description": "Thorin II was born in TA 2746 to Dwarf prince Thráin II in the city of the Lonely Mountain. Early in his youth, he and the other Dwarves of the Lonely Mountain were forced to flee by the dragon Smaug in TA 2770. While in exile, he quickly grew to become a capable warrior. This was demonstrated when he participated in the Battle of Azanulbizar in TA 2799. He fought with one of the Dwarven armies beneath the East-gate of Moria. At some point in the fighting, his shield broke, and using an oaken tree branch found on the ground as a shield, he gained the epithet 'Oakenshield,' which would remain with him even in death.",
-        "image_source": "https://static.wikia.nocookie.net/lotr/images/2/29/Thorin_Oakenshield.jpg"
+        "image_source": "https://static.wikia.nocookie.net/lotr/images/2/29/Thorin_Oakenshield.jpg",
+        "url": "thorin"
     },
     
     {
         "name": "Fíli & Kíli",
         "description": "Fíli and Kíli were nephews of Thorin, who was the elder brother of their mother Dís. They were also nephews of Frerin, grandsons of Thráin II, and great-grandsons of Thrór. Fíli's most distinguishing feature was his long nose, the longest of any of the Dwarves in Thorin's company.",
-        "image_source": ""
+        "image_source": "https://static.wikia.nocookie.net/lotr/images/f/fb/Lego_fili.png",
+        "url": "fili-and-kili"
     },
     
     {
-        "name": "Thorin Oakenshield",
-        "description": "",
-        "image_source": ""
+        "name": "Óin",
+        "description": "Óin was the older brother of Glóin, cousin of Dwalin and Balin, and uncle of Gimli. Óin's uncle was Fundin, the father of Balin and Dwalin. He usually wore a brown-hooded cloak when travelling. Óin fought in the Battle of Azanulbizar along with Thorin Oakenshield, and in TA 2941 joined with Thorin and Company on the quest to reclaim the Lonely Mountain wearing a brown hood.",
+        "image_source": "https://static.wikia.nocookie.net/lotr/images/c/c9/LEGO_Oin.jpg",
+        "url": "oin"
     },
     
     {
-        "name": "Thorin Oakenshield",
-        "description": "",
-        "image_source": ""
+        "name": "Glóin",
+        "description": "Glóin was born in TA 2783, after the dragon Smaug desolated Erebor. He was the younger child of Gróin and younger brother of Óin. In TA 2799, Glóin was known to have fought in the Battle of Azanulbizar, the last battle of the War of the Dwarves and Orcs, though it is unknown how significant his contribution was, being 16 years old. In TA 2879, in the Blue Mountains, while in exile, his son Gimli was born to him and an unknown wife. In March of TA 2941 in Bree, Thorin Oakenshield met by chance the wizard Gandalf the Grey, pushing Thorin to reclaim Erebor, so that Smaug wouldn't ally with Sauron. When Gandalf mentioned Hobbits, Glóin referred them as 'simpletons' and also said that Hobbits 'would never dare to come within smelling distance of the nakedest dragonet new from the shell'.",
+        "image_source": "https://static.wikia.nocookie.net/lotr/images/7/70/LEGO_Gloin.jpg",
+        "url": "gloin"
     },
     
     {
-        "name": "Thorin Oakenshield",
-        "description": "",
-        "image_source": ""
+        "name": "Balin",
+        "description": "Balin was a Dwarf leader, the son of Fundin, and elder brother of Dwalin. He was one of the thirteen Dwarves who accompanied Thorin II Oakenshield on the quest to regain the Lonely Mountain. A Dwarf Lord known for his wise counsel and willingness to listen, he was one of Thorin's closest friends and advisers. Balin was distantly related to him, and a descendant of the noble House of Durin. He later went to re-establish the Dwarf presence in Moria, but within five years it was overcome once more by Orcs, and he was killed there along with the rest of his companions.",
+        "image_source": "http://www.bricklink.com/ML/lor049.jpg?1",
+        "url": "balin"
     },
     
     {
-        "name": "Thorin Oakenshield",
-        "description": "",
-        "image_source": ""
+        "name": "Dwalin",
+        "description": "Born in TA 2772, two years after the dragon Smaug had desolated Erebor, Dwalin was the son of Fundin and younger brother of Balin. After fighting in the Battle of Azanulbizar at the age of 27, Dwalin accompanied Thráin II and Thorin Oakenshield to settle peacefully in the northern Ered Luin.",
+        "image_source": "https://static.wikia.nocookie.net/lego-lord-of-the-rings/images/5/56/Dwal.png",
+        "url": "dwalin"
     },
     
     {
-        "name": "Thorin Oakenshield",
-        "description": "",
-        "image_source": ""
+        "name": "Ori",
+        "description": "Ori lived in Thorin's Halls in the northern Blue Mountains for many years. In the year TA 2941, Ori became a member of Thorin's Company and travelled with Thorin, Gandalf, Bilbo Baggins, and the other Dwarves on the quest for the Lonely Mountain, culminating in the death of Smaug. Finally, he and the other Dwarves of Thorin's Company fought in the Battle of Five Armies, which he survived.",
+        "image_source": "https://static.wikia.nocookie.net/lotr/images/c/c7/Ori.jpg",
+        "url": "ori"
     },
     
     {
-        "name": "Thorin Oakenshield",
-        "description": "",
-        "image_source": ""
+        "name": "Dori",
+        "description": "Dori was among the Dwarves at Bag End who joined in singing about 'blunting the knives' and 'bending the forks'; as well as accompanying by playing the flute. He was described as “decent fellow despite his grumbling”. He often wore a red-violet coat while on the Quest for Erebor. He was noted by Thorin to be the strongest of the thirteen companions.",
+        "image_source": "https://static.wikia.nocookie.net/lotr/images/d/d1/Dori.jpg",
+        "url": "dori"
     },
     
     {
-        "name": "Thorin Oakenshield",
-        "description": "",
-        "image_source": ""
+        "name": "Nori",
+        "description": "Nori was a Dwarf of Durin's Folk. He had a brother named Dori as well as a cousin named Ori, and was a remote kinsman of Thorin Oakenshield. His hood was purple, he played the flute, and he was very fond of regular and plentiful meals like his Hobbit friend, Bilbo Baggins.",
+        "image_source": "https://static.wikia.nocookie.net/lotr/images/9/91/LEGO_Nori_.jpg",
+        "url": "nori"
     },
     
     {
-        "name": "Thorin Oakenshield",
-        "description": "",
-        "image_source": ""
+        "name": "Bifur",
+        "description": "Whilst he was a descendant of the Dwarves of Khazad-dûm, Bifur was not related to the royal House of Durin. Most of his familial relations are unclear, and what is known of his parentage is very little. He and his family were driven out of their home in the Lonely Mountain by the dragon Smaug, and were forced to live in exile, where the Dwarf warrior worked as a toy maker. Following Thorin II Oakenshield to a new life at his halls in the Blue Mountains, he continued his life as a toy maker.",
+        "image_source": "https://static.wikia.nocookie.net/lotr/images/9/98/LEGO_Bifur.jpg",
+        "url": "bifur"
     },
     
     {
-        "name": "Thorin Oakenshield",
-        "description": "",
-        "image_source": ""
+        "name": "Bofur",
+        "description": "Bofur was a Dwarf of the late-Third Age. He is best known as a companion of Bilbo Baggins, Thorin Oakenshield, and Gandalf on the quest to reclaim the Lonely Mountain from the dragon Smaug, along with his brother Bombur and cousin Bifur.",
+        "image_source": "https://static.wikia.nocookie.net/lotr/images/2/2e/HQBofur.png",
+        "url": "bofur"
     },
     
     {
-        "name": "Thorin Oakenshield",
-        "description": "",
-        "image_source": ""
+        "name": "Bombur",
+        "description": "Bombur was a Dwarf who accompanied Thorin Oakenshield and Bilbo Baggins on their quest to the Lonely Mountain as part of the company, alongside his brother Bofur and cousin Bifur. Bombur was noted as the fattest Dwarf in the company.",
+        "image_source": "https://static.wikia.nocookie.net/lotr/images/d/d2/BomburHQ.jpg",
+        "url": "bombur"
     },
     
     {
-        "name": "Thorin Oakenshield",
-        "description": "",
-        "image_source": ""
+        "name": "Bilbo Baggins",
+        "description": "Bilbo Baggins was a hobbit of the Shire, the main protagonist of The Hobbit and a secondary character in The Lord of the Rings. Gandalf suggested to Thorin and Company that they hire Bilbo Baggins to be their burglar in the Quest of Erebor, and later fought in the Battle of Five Armies. Bilbo was also one of the bearers of the One Ring, and the first to voluntarily give it up, although with some difficulty. He wrote many of his adventures in a book he called There and Back Again. Bilbo adopted his second-cousin-once-removed Frodo Baggins to be his heir after his parents, Drogo Baggins and Primula Brandybuck, drowned in the Brandywine River.",
+        "image_source": "https://static.wikia.nocookie.net/lego/images/c/c8/Bilbo_Baggins_2.jpg",
+        "url": "bilbo-baggins"
     },
     
     {
-        "name": "Thorin Oakenshield",
-        "description": "",
-        "image_source": ""
+        "name": "Gandalf",
+        "description": "Gandalf the Grey, later known as Gandalf the White, and originally named Olórin, was an Istar (Wizard), dispatched to Middle-earth in the Third Age to combat the threat of Sauron. He joined Thorin II Oakenshield and his company to reclaim the Lonely Mountain from Smaug, helped form the Fellowship of the Ring to destroy the One Ring, and led the Free Peoples in the final campaign of the War of the Ring.",
+        "image_source": "https://static.wikia.nocookie.net/lego/images/6/65/Gandalf_the_grey.png",
+        "url": "gandalf"
     }
 ]

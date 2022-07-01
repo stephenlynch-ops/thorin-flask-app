@@ -1,9 +1,5 @@
 {% extends "base.html" %}
 {% block content %}
-
-    {% for number in list_of_numbers %}
-        <p>{{ number }}</p>
-    {% endfor %}
     
     <h2>{{ page_title }}</h2>
     <p>
@@ -16,26 +12,48 @@
         to leave on other business, welcomed a fourteenth to fill into their party.
     </p>
 
-    <div class="row featurette">
-        <div class="col-md-7">
-            <h3>Thorin Oakenshield</h3>
-            <p>
-                Thorin II was born in TA 2746 to Dwarf prince Thráin II in the city of the Lonely Mountain. Early in his
-                youth, he and the other Dwarves of the Lonely Mountain were forced to flee by the dragon Smaug in TA
-                2770. While in exile, he quickly grew to become a capable warrior. This was demonstrated when he
-                participated in the Battle of Azanulbizar in TA 2799. He fought with one of the Dwarven armies beneath
-                the East-gate of Moria. At some point in the fighting, his shield broke, and using an oaken tree branch
-                found on the ground as a shield, he gained the epithet "Oakenshield," which would remain with him even
-                in death.
-            </p>
-        </div>
-        <div class="col-md-1"></div>
-        <div class="col-md-4">
-            <img src="https://static.wikia.nocookie.net/lotr/images/2/29/Thorin_Oakenshield.jpg" alt="Lego Thorin Image">
-        </div>
-    </div>
+    {% for member in company %}
 
-    <div class="row featurette">
+        <div class="row featurette">
+
+            {% if loop.index % 2 != 0 %}
+            
+                <div class="col-md-7">
+                    <h3><a href="/about/{{ member.url }}">{{ loop.index  }}. {{ member.name }}</a></h3>
+                    <p>
+                        {{ member.description }}
+                    </p>
+                </div>
+                <div class="col-md-1"></div>
+                <div class="col-md-4">
+                    <img src="{{ member.image_source }}" alt="" class="featurette-image image-responsive">
+                </div>
+            
+            {% else %}
+
+                <div class="col-md-4">
+                    <img src="{{ member.image_source }}" alt="" class="featurette-image image-responsive">
+                </div>
+                <div class="col-md-1"></div>
+                <div class="col-md-7">
+                    <h3><a href="/about/{{ member.url }}">{{ loop.index  }}. {{ member.name }}</a></h3>
+                    <p>
+                        {{ member.description }}
+                    </p>
+                </div>
+
+            {% endif %}
+        </div>
+
+        {% if loop.index != loop.length %}
+        
+            <hr class="featurette-divider">
+
+        {% endif %}
+
+    {% endfor %}
+
+    <!-- <div class="row featurette">
         <div class="col-md-3">
             <img src="https://static.wikia.nocookie.net/lotr/images/f/fb/Lego_fili.png" alt="Lego Fíli">
         </div>
@@ -238,23 +256,8 @@
         <div class="col-md-4">
             <img src="https://static.wikia.nocookie.net/lego/images/c/c8/Bilbo_Baggins_2.jpg" alt="Lego Bolbo Baggins">
         </div>
-    </div>
+    </div> -->
 
-    <div class="row featurette">
-        <div class="col-md-1"></div>
-        <div class="col-md-4">
-            <img src="https://static.wikia.nocookie.net/lego/images/6/65/Gandalf_the_grey.png" alt="Lego Gandalf">
-        </div>
-        <div class="col-md-7">
-            <h3>Gandalf</h3>
-            <p>
-                Gandalf the Grey, later known as Gandalf the White, and originally named Olórin, was an Istar (Wizard),
-                dispatched to Middle-earth in the Third Age to combat the threat of
-                Sauron. He joined Thorin II Oakenshield and his company to reclaim the Lonely Mountain from Smaug,
-                helped form the Fellowship of the Ring to destroy the One Ring, and led the Free Peoples in the final
-                campaign of the War of the Ring.
-            </p>
-        </div>
-    </div>
+   
 
 {% endblock %}
